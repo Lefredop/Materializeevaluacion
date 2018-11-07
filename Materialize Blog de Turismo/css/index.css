@@ -1,0 +1,58 @@
+.logo{
+height:100px;
+margin-top:5px;
+}
+
+.barra-de-navegacion{
+margin-top: 5px;
+}
+
+.slogan{
+padding-top: 100px;
+margin-top: 50px;
+}
+
+/*logos de Redes Sociales*/
+.zmdi-facebook-box{
+color:#3A5795;
+}
+
+.zmdi-google-plus{
+color:#C30907;
+}
+
+.zmdi-instagram{
+color:#2A5B83;
+}
+
+.zmdi-twitter{
+color:#5EA9DD;
+}
+
+.zmdi-pinterest-box{
+color:#D70004;
+}
+
+.zmdi-youtube-play{
+color:#CC181E;
+}
+
+.redes.sociales{
+font-size:100px;
+}
+
+img { width: 100% }
+
+.fondoimg{
+background-image: url("../img/fondo.jpg");
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+}
+
+.vacacion{
+float: left;
+margin: 10px;
+width: 50%;
+}
